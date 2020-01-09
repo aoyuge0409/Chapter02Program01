@@ -1,0 +1,10 @@
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\bin\Debug\Chapter2Program1.exe.config
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\bin\Debug\Chapter2Program1.exe
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\bin\Debug\Chapter2Program1.pdb
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\obj\Debug\Chapter2Program1.csprojAssemblyReference.cache
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\obj\Debug\Chapter2Program1.Properties.Resources.resources
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\obj\Debug\Chapter2Program1.csproj.GenerateResource.cache
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\obj\Debug\Chapter2Program1.csproj.CoreCompileInputs.cache
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\obj\Debug\Chapter2Program1.exe
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\obj\Debug\Chapter2Program1.pdb
+C:\Users\Programming13\source\repos\Chapter2Program1\Chapter2Program1\obj\Debug\Chapter2Program1.Form1.resources
